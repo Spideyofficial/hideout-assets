@@ -26,7 +26,6 @@
     customEffects: {
       cleanup: function() {
         const existing = document.getElementById('halloween-effects');
-        if (existing) existing.remove();
       }
     }
   };
