@@ -1,1 +1,3 @@
-# hideout-assets
+# Hideout Assets
+
+Assets for Hideout.
